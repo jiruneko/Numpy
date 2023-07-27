@@ -1,1 +1,1 @@
-# Numpy basic
+# Numpy basics
